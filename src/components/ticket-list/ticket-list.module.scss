@@ -1,0 +1,23 @@
+.ticket_list {
+  width: 100%;
+  background: inherit;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.button_view {
+  margin-top: 20px;
+  width: 502px;
+  height: 50px;
+  color: #ffffff;
+  background: #2196f3;
+  border-radius: 5px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
